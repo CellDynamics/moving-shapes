@@ -1,0 +1,31 @@
+{
+  "className": "SnakePluginList",
+  "timeStamp": {
+    "version": "19.01.01",
+    "buildstamp": "baniuk on: 2019-01-16 14:24:32",
+    "name": "QuimP"
+  },
+  "createdOn": "Tue 2019.02.26 at 13:16:09 PM CET",
+  "obj": {
+    "sPluginList": [
+      {
+        "isActive": true,
+        "name": "",
+        "config": {},
+        "ver": ""
+      },
+      {
+        "isActive": true,
+        "name": "",
+        "config": {},
+        "ver": ""
+      },
+      {
+        "isActive": true,
+        "name": "",
+        "config": {},
+        "ver": ""
+      }
+    ]
+  }
+}
